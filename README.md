@@ -8,6 +8,9 @@ I asked an AI for **2 exercises per chapter**, covering all chapter content:
 
 Plus, a final project that integrates all topics.
 
+Codespace:
+https://verbose-space-dollop-r4gqgpx6vj4r2wppr.github.dev
+
 ---
 
 ## Course General Content
