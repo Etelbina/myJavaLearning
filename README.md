@@ -1,11 +1,7 @@
 # myJavaLearning
 
 Exercises to practice Java topics from my courses.
-
-I asked an AI for **2 exercises per chapter** of my courses:  
-- One for **debugging practice**  
-- One for **coding from scratch**  
-Plus, a final project that integrates all topics of the course.
+I asked the AI for exercises to practice the topics in my Java Certificate.
 
 Codespace:
 https://verbose-space-dollop-r4gqgpx6vj4r2wppr.github.dev
@@ -32,6 +28,11 @@ Courses General Content:
 7. Mastering Debugging
 8. Final project
 
+**AI exercises for course 1**  
+- One for **debugging practice**  
+- One for **coding from scratch**  
+Plus, a final project that integrates all topics of the course.
+
 ---
 
 ## 2. Algorithms and Data Structures in Java
@@ -41,6 +42,10 @@ Courses General Content:
 3. Advanced Data Structures - Stacks and Queues
 4. Fundamental Data Structures - Linked Lists
 5. Final project
+
+**AI exercises for course 1:**  
+- Tow **introductory**
+- One **intermediate**
 
 ---
 
