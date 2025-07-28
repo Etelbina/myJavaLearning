@@ -28,7 +28,7 @@ Courses General Content:
 7. Mastering Debugging
 8. Final project
 
-**AI exercises for course 1**  
+**AI exercises for course 1:**  
 - One for **debugging practice**  
 - One for **coding from scratch**  
 Plus, a final project that integrates all topics of the course.
@@ -43,7 +43,7 @@ Plus, a final project that integrates all topics of the course.
 4. Fundamental Data Structures - Linked Lists
 5. Final project
 
-**AI exercises for course 1:**  
+**AI exercises for course 2:**  
 - Tow **introductory**
 - One **intermediate**
 
